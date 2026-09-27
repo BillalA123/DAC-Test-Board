@@ -16,9 +16,7 @@ Test board designed to independently control and evaluate 32 varactor diode chan
 - Temperature alarm monitoring for both DACs
 - Configurable toggle control inputs
 - 3.3 V, 5 V, and 12 V power rails
-- LDO status indicators
-- Extensive test points for hardware debugging and measurement
-- Decoupling placed throughout the DAC and power sections
+- Low noise LDO 
 
 ## Design
 
