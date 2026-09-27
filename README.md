@@ -1,10 +1,10 @@
-# Shift Register Test Board
+# DAC Test Board
 
 Test board designed to independently control and evaluate 32 varactor diode channels using two 16-channel DACs.
 
 ## PCB
 
-![Shift Register Test Board PCB](Images/PCB%203D%20Layout.png)
+![DAC Test Board PCB](Images/PCB%203D%20Layout.png)
 
 ## Features
 
@@ -30,4 +30,4 @@ The board also includes dedicated power regulation, temperature alarm outputs, L
 
 ## Schematic
 
-![Shift Register Test Board Schematic](Images/Schematic.png)
+![DAC Test Board Schematic](Images/Schematic.png)
